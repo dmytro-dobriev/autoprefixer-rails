@@ -1,16 +1,8 @@
 ﻿# Autoprefixer Rails [![Build Status][ci-img]][ci]
 
-<img align="right" width="94" height="71"
-     src="http://postcss.github.io/autoprefixer/logo.svg"
-     title="Autoprefixer logo by Anton Lovchikov">
-
 [Autoprefixer] is a tool to parse CSS and add vendor prefixes to CSS rules
 using values from the [Can I Use] database. This gem provides Ruby
 and Ruby on Rails integration with this JavaScript tool.
-
-<a href="https://evilmartians.com/?utm_source=autoprefixer-rails">
-<img src="https://evilmartians.com/badges/sponsored-by-evil-martians.svg" alt="Sponsored by Evil Martians" width="236" height="54">
-</a>
 
 [Autoprefixer]:     https://github.com/postcss/autoprefixer
 [Can I Use]:        http://caniuse.com/
